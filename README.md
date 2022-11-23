@@ -66,8 +66,8 @@ developing your own process.
 
 - Update the number of likes for a toy
 
-  - How I debugged:
+  - How I debugged: I rendered the updated value
 
 - Donate a toy to Goodwill (and delete it from our database)
 
-  - How I debugged:
+  - I added the delete route to the `routes.rb`
