@@ -62,11 +62,11 @@ developing your own process.
 
 - Add a new toy when the toy form is submitted
 
-  - How I debugged:
+  - How I debugged: add status created
 
 - Update the number of likes for a toy
 
-  - How I debugged: I rendered the updated value
+  - How I debugged: I rendered the updated value `render json: toy`
 
 - Donate a toy to Goodwill (and delete it from our database)
 
